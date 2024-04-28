@@ -1,0 +1,7 @@
+/* estilo para imagen de fondo   */
+.img2 {
+    background-color: #f8f8f8;
+    background: url(front/images/fondo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
